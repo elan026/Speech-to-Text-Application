@@ -1,0 +1,4 @@
+PyAutoGUI==0.9.54
+pyperclip==1.9.0
+SpeechRecognition==3.10.4
+tkinter==8.6.13
